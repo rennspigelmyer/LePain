@@ -1,0 +1,12 @@
+/* Importing Google Font */
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+French+Canon&display=swap');
+
+body {
+  font-family: 'IM Fell French Canon', serif;
+}
+
+#showcase {
+  background-image: url(Images/header.jpg);
+  height: 95vh;
+  background-size: cover;
+}
